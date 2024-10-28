@@ -25,5 +25,3 @@ pip install instaloader
 ```
 python ig.py
 ```
-### One line command:
-visit : <a href="https://www.termuxcommands.com/instagram-information-gathering-tool/">https://www.termuxcommands.com/instagram-information-gathering-tool/</a>
